@@ -1,6 +1,6 @@
-# Hi, I’m Yuka Yamaguchi 👋
+# Yuka Yamaguchi | Python Developer | FastAPI Specialist | Data Analysis Enthusiast
 
-I’m a **Python Developer** specializing in **RESTful API Development** and **Data Analysis**.  
+I’m **Yuka Yamaguchi**, a **Python Developer** specializing in **RESTful API Development** and **Data Analysis**.  
 I’m passionate about building scalable backend solutions and analyzing large datasets for impactful insights.
 
 ---
@@ -8,8 +8,11 @@ I’m passionate about building scalable backend solutions and analyzing large d
 ## 🚀 **What I’m Working On**
 
 - **Global Environment API** 🌍 *(In Progress)*  
-   A FastAPI-based API for analyzing climate and renewable energy data using **Google BigQuery**.  
-   - Features: Efficient data querying, dynamic chart generation (bar, line, pie).  
+   A FastAPI-based API for analyzing climate and renewable energy data.  
+   - **Key Features**:
+       - Fast querying and filtering of large datasets with **Google BigQuery**  
+       - Dynamic chart generation (bar, line, pie) for **data visualization**  
+       - Exporting forecast data as **CSV, Excel, and PDF**  
    - GitHub: [Global Environment API](https://github.com/JourneySculptor/global_environment_api)  
 
 ---
@@ -19,7 +22,10 @@ I’m passionate about building scalable backend solutions and analyzing large d
 - **Languages**: Python, SQL  
 - **Frameworks**: FastAPI, Flask  
 - **Tools & Platforms**: Google BigQuery, Cloud Run, Docker  
-- **Data**: Data Analysis, Visualization, API Development  
+- **Key Competencies**:  
+   - RESTful API Development  
+   - Scalable Backend Solutions  
+   - Data Analysis & Visualization  
 
 ---
 
@@ -30,14 +36,16 @@ I’m passionate about building scalable backend solutions and analyzing large d
 
 ---
 
-## 🔗 **Let’s Connect**
+## 🎯 **Goals**
 
-- [LinkedIn Profile](https://www.linkedin.com/in/yuka-yamaguchi-214290342)  
-- [GitHub Projects](https://github.com/JourneySculptor)  
+- Secure a **remote position** as a Python Developer specializing in **backend API development**.  
+- Contribute to innovative projects related to **climate action** or **data-driven insights**.  
+- Available to work **full-time during European business hours** (afternoons and evenings in Japan).  
 
 ---
 
-## 🎯 **Goals**
+## 🔗 **Let’s Connect**
 
-- Secure a **remote position** as a Python Developer where I can contribute to backend development and API projects.  
-- Continue building impactful tools that solve real-world problems through **data-driven solutions**.  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yuka-yamaguchi-214290342)  
+- **GitHub**: [My GitHub Portfolio](https://github.com/JourneySculptor)  
+- **Highlighted Project**: [Global Environment API](https://github.com/JourneySculptor/global_environment_api)  
