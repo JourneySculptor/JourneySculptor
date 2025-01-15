@@ -32,4 +32,5 @@ I am seeking full-time remote opportunities in Europe, New Zealand, or Australia
 ---
 
 📫 **Let’s Connect**:
-Feel free to reach out or check out my projects for more details!
+- [LinkedIn Profile](https://www.linkedin.com/in/yuka-yamaguchi-214290342)
+- Feel free to reach out or check out my projects for more details!
